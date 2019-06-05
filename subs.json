@@ -1,0 +1,23 @@
+{ 
+  "submarines":[ 
+      {"bodyrx": 40, "portr": 5, "towHeight": 30, "perHeight": 20, "helrx":15, "id": "sub0"},
+      {"bodyrx": 32, "portr": 8, "towHeight": 20, "perHeight": 15, "helrx":20, "id": "sub1"},
+      {"bodyrx": 30, "portr": 5, "towHeight": 25, "perHeight": 30, "helrx":10, "id": "sub2"},
+      {"bodyrx": 15, "portr": 3, "towHeight": 10, "perHeight": 25, "helrx":5, "id": "sub3"},
+      {"bodyrx": 20, "portr": 7, "towHeight": 8.5, "perHeight": 13, "helrx":8, "id": "sub4"},
+      {"bodyrx": 25, "portr": 8, "towHeight": 18, "perHeight": 22, "helrx":12, "id": "sub5"},
+      {"bodyrx": 18, "portr": 5, "towHeight": 8, "perHeight": 17, "helrx": 7, "id": "sub6"},
+      {"bodyrx": 30, "portr": 10, "towHeight": 23, "perHeight": 35, "helrx": 18, "id": "sub7"},
+      {"bodyrx": 27, "portr": 8.5, "towHeight": 13, "perHeight": 32, "helrx": 14, "id": "sub8"},
+      {"bodyrx": 20, "portr": 4, "towHeight": 9, "perHeight": 30, "helrx": 9, "id": "sub9"},
+      {"bodyrx": 35, "portr": 12, "towHeight": 24, "perHeight": 18, "helrx": 17, "id": "sub10"},
+      {"bodyrx": 17, "portr": 5, "towHeight": 11, "perHeight": 22, "helrx": 7, "id": "sub11"},
+      {"bodyrx": 22, "portr": 6, "towHeight": 15, "perHeight": 10, "helrx": 13, "id": "sub12"},
+      {"bodyrx": 19, "portr": 3, "towHeight": 12, "perHeight": 31, "helrx": 11, "id": "sub13"},
+      {"bodyrx": 23, "portr": 7, "towHeight": 12, "perHeight": 28, "helrx": 16, "id": "sub14"},
+      {"bodyrx": 34, "portr": 13, "towHeight": 12, "perHeight": 27, "helrx": 15, "id": "sub15"},
+      {"bodyrx": 14, "portr": 3.5, "towHeight": 10, "perHeight": 13, "helrx": 8, "id": "sub16"},
+      {"bodyrx": 21, "portr": 5, "towHeight": 14, "perHeight": 38, "helrx": 12, "id": "sub17"},
+      {"bodyrx": 24, "portr": 7, "towHeight": 11, "perHeight": 24, "helrx": 14, "id": "sub18"},
+      {"bodyrx": 35, "portr": 11, "towHeight": 17, "perHeight": 20, "helrx": 18, "id": "sub19"}
+      ]}
